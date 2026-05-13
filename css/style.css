@@ -1,0 +1,48 @@
+body {
+  background-color: #f5efe7;
+  font-family: Georgia, serif;
+  color: #3b241b;
+  margin: 0;
+}
+
+main {
+  width: 900px;
+  margin: 40px auto;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+h1 {
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+.course {
+  color: #b88752;
+  letter-spacing: 2px;
+  margin-bottom: 25px;
+}
+
+img {
+  width: 320px;
+  border-radius: 15px;
+  border: 1px solid #b88752;
+}
+
+dl {
+  background-color: #fffaf4;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+dt {
+  font-weight: bold;
+  margin-top: 15px;
+  letter-spacing: 1px;
+}
+
+dd {
+  margin-left: 0;
+  margin-top: 5px;
+}
